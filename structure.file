@@ -1,0 +1,7 @@
++ pynq
+   + overlays
+      + dma_fifo
+         - dma_fifo.bit, dma_fifo.tcl, dma_fifo.hwh
++jupyter_notebook
+   + dma_fifo
+         - dma_fifo.ipynb, dataset.txt
